@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+### 个人信息
+#### 姓名：李文仪
+#### 性别：男
+#### 年龄：21
+#### 出生日期：1999年6月22日
+#### 民族：汉族
+#### 学历：本科
+#### 身份证号：xxx
+#### 籍贯：海南省文昌市
+#### 政治面貌：中国共青团团员
+#### 就读学校：浙江万里学院
+#### 就读专业：通信工程
 
-You can use the [editor on GitHub](https://github.com/liwenyi66/liwenyi.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 联系方式
+#### 联系电话：13123876978
+#### 电子邮箱：1361455114@qq.com
+#### 家庭住址：海南省文昌市文城镇高隆村委会山景西村
+#### 家庭邮编：571300
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 学历社会经历信息（2005.9-2021.6）
+- 时间：（2005.9-2011.6） 就读学校：文城中心小学 证明人：王平
+- 时间：（2011.9-2014.6） 就读学校：文昌华侨中学 证明人：张光杰
+- 时间：（2014.9-2017.6） 就读学校：文昌华侨中学 证明人：陈文婷
+- 时间：（2017.9-2021.6)  就读学校：浙江万里学院 证明人：应敏
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liwenyi66/liwenyi.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 获奖经历
+- c语言编程二级专业证书
+- 普通话证书（甲级）
+- xxx
